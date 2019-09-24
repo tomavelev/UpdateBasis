@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Update Basis</string>
+    <string name="loading">Loading …</string>
+    <string name="ok">OK</string>
+    <string name="new_version_failed">There is new version but it failed to install. Try again later.</string>
+
+</resources>
